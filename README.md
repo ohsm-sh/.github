@@ -1,1 +1,1 @@
-# .github
+# ohsm.sh ☕
